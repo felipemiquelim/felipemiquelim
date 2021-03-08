@@ -14,8 +14,8 @@
 Hi, I'm Felipe, also known as Miquelim :v:. 
 
 :brazil: I'm a Data Engineer, born and raised in São Paulo, Brazil, where I currently live.  
-:norway: I've already seen some northern lights :milky_way: in my days living in Ålesund, Norway.
-:computer: Working my way around building efficient Data Pipelines, focusing on code design, pipeline efficiency and scalable arch.
+:norway: I've already seen some northern lights :milky_way: in my days living in Ålesund, Norway.  
+:computer: Working my way around building efficient Data Platforms and Products, focusing on code design, pipeline efficiency and scalable arch.
 
 - 😄 Pronouns: he, his
 - 🔭 I’m currently working on ...
