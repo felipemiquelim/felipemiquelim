@@ -22,7 +22,7 @@ Hi, I'm Felipe, also known as Miquelim :v:.
 - :mortar_board: I’m currently learning: [Data Science and Big Data](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Documents/Ci%c3%aancia%20de%20Dados%20e%20Big%20Data.pdf)
 - :metal: I’m looking to collaborate on: Data Engineering ideas that revolutionize the sports scene :soccer: :football: :basketball:
 
-### Personal Interest
+### Personal Interests
 - :soccer: :football: :basketball: Sports
 - :musical_note: Rap
 - :tv: The Office, Lost & Breaking Bad
@@ -30,4 +30,4 @@ Hi, I'm Felipe, also known as Miquelim :v:.
 - :video_game: Zelda BoTW, Horizon, Pokémon
 
 ### Contact Me
-:mailbox: How to reach me: <felipemiquelim@gmail.com>
+:mailbox: <felipemiquelim@gmail.com>
