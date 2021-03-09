@@ -2,7 +2,7 @@
 **felipemiquelim/felipemiquelim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there! 
+## Hi there! 
 <a href="https://www.linkedin.com/in/felipemiquelim/">
   <img align="left" alt="Felipe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/linkedin.svg"/>
 </a>
@@ -13,15 +13,21 @@
 
 Hi, I'm Felipe, also known as Miquelim :v:. 
 
-:brazil: I'm a Data Engineer, born and raised in São Paulo, Brazil, where I currently live.  
+:brazil: I'm a *Data Engineer*, born and raised in São Paulo, Brazil, where I currently live.  
 :norway: I've already seen some northern lights :milky_way: in my days living in Ålesund, Norway.  
 :computer: Working my way around building efficient Data Platforms and Products, focusing on code design, pipeline efficiency and scalable arch.
 
-- 😄 Pronouns: he, his
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-- 📫 How to reach me: ...
+- :speech_balloon: Pronouns: he, his
+- :book: I’m currently reading: [Uncle Bob](http://cleancoder.com/products) 's Clean Code and Clean Architecture
+- :mortar_board: I’m currently learning: [Data Science and Big Data](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Documents/Ci%c3%aancia%20de%20Dados%20e%20Big%20Data.pdf)
+- :metal: I’m looking to collaborate on: Data Engineering ideas that revolutionize the sports scene :soccer: :football: :basketball:
+
+### Personal Interest
+- :soccer: :football: :basketball: Sports
+- :musical_note: Rap
+- :tv: The Office, Lost & Breaking Bad
+- :cinema: Back to the Future, Kill Bill & Forrest Gump
+- :video_game: Zelda BoTW, Horizon, Pokémon
+
+### Contact Me
+:mailbox: How to reach me: <felipemiquelim@gmail.com>
