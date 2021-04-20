@@ -22,6 +22,15 @@ Hi, I'm Felipe, also known as Miquelim :v:.
 - :mortar_board: I’m currently learning: [Data Science and Big Data](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Documents/Ci%c3%aancia%20de%20Dados%20e%20Big%20Data.pdf)
 - :metal: I’m looking to collaborate on: Data Engineering ideas that revolutionize the sports scene :soccer: :football: :basketball:
 
+### Certifications
+<a href="https://www.tableau.com/learn/certification">
+<img align="left" alt="Felipe's Tableau" width="100px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/certification-badge-tableau.png"/>
+</a>
+<a href="https://www.astronomer.io/certification">
+<img align="left" alt="Felipe's Airflow" width="100px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/certification-badge-astronomer.png"/>
+</a>
+<br/><br/>
+
 ### Personal Interests
 - :soccer: :football: :basketball: Sports
 - :musical_note: Rap
