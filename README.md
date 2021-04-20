@@ -8,7 +8,6 @@
 </a>
 <a href="https://medium.com/@felipemiquelim">
     <img align="left" alt="Felipe's Medium" width="22px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/medium.svg"/>
-    <img align="left" alt="Felipe's Medium" width="22px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/medium_white.svg"/>
 </a>
 <a href="https://open.spotify.com/user/11152982022?si=z6ihelXOTIylxiMkIXmW6g">
     <img align="left" alt="Felipe's Spotify" width="22px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/spotify.svg"/>
