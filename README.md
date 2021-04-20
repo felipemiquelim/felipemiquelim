@@ -24,13 +24,11 @@ Hi, I'm Felipe, also known as Miquelim :v:.
 
 ### Certifications
 <a href="https://www.tableau.com/learn/certification">
-<img align="left" alt="Felipe's Tableau" width="100px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/certification-badge-tableau.png"/>
+<img align="left" alt="Felipe's Tableau" width="100px" height="80px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/certification-badge-tableau.png"/>
 </a>
 <a href="https://www.astronomer.io/certification">
-<img align="left" alt="Felipe's Airflow" width="100px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/certification-badge-astronomer.png"/>
-</a>
-<br/><br/>
-
+<img align="left" alt="Felipe's Airflow" width="100px" height="90px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/certification-badge-astronomer.png"/>
+</a><br/><br/><br/><br/>
 
 ### Personal Interests
 - :soccer: :football: :basketball: Sports
