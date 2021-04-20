@@ -4,10 +4,13 @@
 
 ## Hi there! 
 <a href="https://www.linkedin.com/in/felipemiquelim/">
-  <img align="left" alt="Felipe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/linkedin.svg"/>
+    <img align="left" alt="Felipe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/linkedin.svg"/>
+</a>
+<a href="https://medium.com/@felipemiquelim">
+    <img align="left" alt="Felipe's Medium" width="22px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/medium.svg"/>
 </a>
 <a href="https://open.spotify.com/user/11152982022?si=z6ihelXOTIylxiMkIXmW6g">
-<img align="left" alt="Felipe's Spotify" width="22px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/spotify.svg"/>
+    <img align="left" alt="Felipe's Spotify" width="22px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/spotify.svg"/>
 </a>
 <br/><br/>
 
