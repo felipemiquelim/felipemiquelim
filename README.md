@@ -25,6 +25,10 @@ Hi, I'm Felipe, also known as Miquelim :v:.
 - :mortar_board: I’m currently learning: [Data Science and Big Data](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Documents/Ci%c3%aancia%20de%20Dados%20e%20Big%20Data.pdf)
 - :metal: I’m looking to collaborate on: Data Engineering ideas that revolutionize the sports scene :soccer: :football: :basketball:
 
+### Posts
+Check out awesome posts about Data Engineering in [QuintoAndar's Data Tech Blog](https://medium.com/quintoandar-tech-blog/data/home), especially mine :grin::
+- [**The Solo Career of Hive Metastore**: Understanding the standalone Hive Metastore service](https://medium.com/@felipemiquelim/c2bcabaec5e?source=friends_link&sk=302387acedfc70a4190f5a8926fb441d)
+
 ### Certifications
 <a href="https://www.tableau.com/learn/certification">
 <img align="left" alt="Felipe's Tableau" width="100px" height="80px" src="https://raw.githubusercontent.com/felipemiquelim/felipemiquelim/main/images/certification-badge-tableau.png"/>
