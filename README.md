@@ -28,6 +28,7 @@ Hi, I'm Felipe, also known as Miquelim :v:.
 ### Posts
 Check out awesome posts about Data Engineering in [QuintoAndar's Data Tech Blog](https://medium.com/quintoandar-tech-blog/data/home), especially mine :grin::
 - [**The Solo Career of Hive Metastore**: Understanding the standalone Hive Metastore service](https://medium.com/@felipemiquelim/c2bcabaec5e?source=friends_link&sk=302387acedfc70a4190f5a8926fb441d)
+- [**Hive-Metastore-Client: the beekeeper**: Communicating with the standalone Hive Metastore service](https://medium.com/quintoandar-tech-blog/hive-metastore-client-the-beekeeper-1da0e6744804?source=friends_link&sk=63b8709874d299e625c4b6a195bb2f59)
 
 ### Certifications
 <a href="https://www.tableau.com/learn/certification">
@@ -38,11 +39,11 @@ Check out awesome posts about Data Engineering in [QuintoAndar's Data Tech Blog]
 </a><br/><br/><br/><br/>
 
 ### Personal Interests
-- :soccer: :football: :basketball: Sports
-- :musical_note: Rap
+- :soccer: Soccer, Football & Basketball
+- :musical_note: Rap, Hip Hop & Pop
 - :tv: The Office, Lost & Breaking Bad
 - :cinema: Back to the Future, Kill Bill & Forrest Gump
-- :video_game: Zelda BoTW, Horizon, Pokémon
+- :video_game: Zelda BoTW, Horizon & Pokémon
 
 ### Contact Me
 :mailbox: <felipemiquelim@gmail.com>
