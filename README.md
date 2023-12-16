@@ -16,19 +16,21 @@
 
 Hi, I'm Felipe, also known as Miquelim :v:. 
 
-:brazil: I'm a *Data Engineer*, born and raised in São Paulo, Brazil, where I currently live.  
+:brazil: I'm a *Senior Data Platform Engineer*, born and raised in São Paulo, Brazil, where I currently live.  
 :norway: I've already seen some northern lights :milky_way: in my days living in Ålesund, Norway.  
 :computer: Working my way around building efficient Data Platforms and Products, focusing on code design, pipeline efficiency and scalable arch.
 
 - :speech_balloon: Pronouns: he, his
-- :book: I’m currently reading: [Uncle Bob](http://cleancoder.com/products) 's Clean Code and Clean Architecture
-- :mortar_board: I’m currently learning: [Data Science and Big Data](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Documents/Ci%c3%aancia%20de%20Dados%20e%20Big%20Data.pdf)
+- :book: I’m currently reading: [O'Reilly](https://www.oreilly.com/library/view/becoming-a-better/9781491905562/) 's Becoming a Better Programmer
+- :mortar_board: I’ve recently post-graduated at: [Data Science and Big Data](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Documents/Ci%c3%aancia%20de%20Dados%20e%20Big%20Data.pdf)
+- :books: I’m currently learning about Kubernetes, Docker and Services Architecture.  
 - :metal: I’m looking to collaborate on: Data Engineering ideas that revolutionize the sports scene :soccer: :football: :basketball:
 
 ### Posts
 Check out awesome posts about Data Engineering in [QuintoAndar's Data Tech Blog](https://medium.com/quintoandar-tech-blog/data/home), especially mine :grin::
 - [**The Solo Career of Hive Metastore**: Understanding the standalone Hive Metastore service](https://medium.com/@felipemiquelim/c2bcabaec5e?source=friends_link&sk=302387acedfc70a4190f5a8926fb441d)
 - [**Hive-Metastore-Client: the beekeeper**: Communicating with the standalone Hive Metastore service](https://medium.com/quintoandar-tech-blog/hive-metastore-client-the-beekeeper-1da0e6744804?source=friends_link&sk=63b8709874d299e625c4b6a195bb2f59)
+- [**From Traditional BI to Lake House, a Data Architecture Evolution**: How QuintoAndar evolved its Data Platform to a Distributed Strategy](https://medium.com/quintoandar-tech-blog/from-traditional-bi-to-lake-house-a-data-architecture-evolution-636f4fdaedf2)
 
 ### Certifications
 <a href="https://www.tableau.com/learn/certification">
@@ -44,6 +46,7 @@ Check out awesome posts about Data Engineering in [QuintoAndar's Data Tech Blog]
 - :tv: The Office, Lost & Breaking Bad
 - :cinema: Back to the Future, Kill Bill & Forrest Gump
 - :video_game: Zelda BoTW, Horizon & Pokémon
+- :jp: Animes
 
 ### Contact Me
 :mailbox: <felipemiquelim@gmail.com>
